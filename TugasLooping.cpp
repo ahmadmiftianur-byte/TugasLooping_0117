@@ -49,3 +49,15 @@ void hasilPrima() {
     }
 }
 
+// tampil hasil fibonacci
+void hasilFibo() {
+    if (fibonacci(n)) {
+        cout << "Bilangan fibonacci\n";
+    } else {
+        cout << "Bukan bilangan fibonacci\n";
+    }
+}
+
+// menu
+void menu() {
+    
