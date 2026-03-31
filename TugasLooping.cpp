@@ -61,4 +61,5 @@ void hasilFibo() {
 // menu
 void menu() {
  cout << "\nMenu:\n";
+    cout << "1. Cek Prima\n";
     
