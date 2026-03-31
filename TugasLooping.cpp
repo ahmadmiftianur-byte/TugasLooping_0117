@@ -18,3 +18,8 @@ bool prima(int x) {
     return true;
 }
 
+// cek fibonacci
+bool fibonacci(int x) {
+    int a = 0, b = 1, c;
+
+    
