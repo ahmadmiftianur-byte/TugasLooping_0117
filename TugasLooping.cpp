@@ -87,4 +87,13 @@ int main() {
                 cout << "Keluar program\n";
                 break;
 
-            
+            default:
+                cout << "pilihan tidak valid\n";
+        }
+
+        if (pilihan == 0) {
+            break;
+        }
+    }
+
+}    
