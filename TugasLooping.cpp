@@ -83,4 +83,8 @@ int main() {
                 hasilFibo();
                 break;
 
+        case 0:
+                cout << "Keluar program\n";
+                break;
+
             
