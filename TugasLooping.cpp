@@ -22,4 +22,7 @@ bool prima(int x) {
 bool fibonacci(int x) {
     int a = 0, b = 1, c;
 
-    
+    while (a <= x) {
+        if (a == x) {
+            return true;
+        
