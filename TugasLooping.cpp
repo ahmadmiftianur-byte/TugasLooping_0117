@@ -34,3 +34,9 @@ bool fibonacci(int x) {
    
 }
 
+// input angka
+void input() {
+    cout << "Masukkan angka: ";
+    cin >> n;
+}
+
