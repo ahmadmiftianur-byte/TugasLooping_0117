@@ -60,4 +60,5 @@ void hasilFibo() {
 
 // menu
 void menu() {
+ cout << "\nMenu:\n";
     
