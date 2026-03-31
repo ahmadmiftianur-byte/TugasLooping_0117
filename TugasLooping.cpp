@@ -73,4 +73,10 @@ int main() {
         menu();
         cin >> pilihan;
 
-        
+        switch (pilihan) {
+            case 1:
+                input();
+                hasilPrima();
+                break;
+
+            
