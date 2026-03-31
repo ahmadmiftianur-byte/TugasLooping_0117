@@ -44,4 +44,8 @@ void input() {
 void hasilPrima() {
     if (prima(n)) {
         cout << "Bilangan prima\n";
-    
+    } else {
+        cout << "Bukan bilangan prima\n";
+    }
+}
+
