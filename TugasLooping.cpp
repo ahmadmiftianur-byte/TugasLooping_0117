@@ -25,4 +25,12 @@ bool fibonacci(int x) {
     while (a <= x) {
         if (a == x) {
             return true;
-        
+     }
+        c = a + b;
+        a = b;
+        b = c;
+    }
+    return false;
+   
+}
+
