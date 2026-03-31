@@ -63,4 +63,5 @@ void menu() {
  cout << "\nMenu:\n";
     cout << "1. Cek Prima\n";
     cout << "2. Cek Fibonacci\n";
+    cout << "0. Keluar\n";
     
