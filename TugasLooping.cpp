@@ -40,3 +40,8 @@ void input() {
     cin >> n;
 }
 
+// tampil hasil prima
+void hasilPrima() {
+    if (prima(n)) {
+        cout << "Bilangan prima\n";
+    
